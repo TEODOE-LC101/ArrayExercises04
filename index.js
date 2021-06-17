@@ -14,5 +14,6 @@ console.log('\n')
 console.log(holdCabinet2.slice(3), holdCabinet1.slice(3));
 
 //c) reverse the first array, and sort the second. What is the difference between these two methods? Do the methods alter the original arrays?
+console.log('\n')
 console.log(holdCabinet1.reverse());
 console.log(holdCabinet2.sort())
